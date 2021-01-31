@@ -9,6 +9,7 @@ class HomeScreen extends Component {
     }
 
     render(){
+        console.log(56)
         return(
             <div className="homwWraper">
                 <h3>Home Screen</h3>
